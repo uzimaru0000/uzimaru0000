@@ -1,16 +1,34 @@
-### Hi there 👋
+# :hatching_chick: uzimaru0000
 
-<!--
-**uzimaru0000/uzimaru0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:soon: :rooster: 
 
-Here are some ideas to get you started:
+## :sparkles: Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :art: Web Frontend
+  - JavaScript
+  - TypeScript
+  - Elm
+  - React
+  - Vue
+- :space_invader: Game
+  - Unity
+  
+## OSS
+
+<table>
+  <tbody>
+    <tr>
+        <td>
+          <a href="https://github.com/uzimaru0000/UniTEA"><img src="https://gh-card.dev/repos/uzimaru0000/UniTEA.svg"></a>
+        </td>
+        <td>
+          <a href="https://github.com/uzimaru0000/Veauty"><img src="https://gh-card.dev/repos/uzimaru0000/Veauty.svg"></a>
+        </td>
+    </tr>
+  </tbody>
+</table>
+
+## Links
+
+- [:bird: Twitter](https://twitter.com/uzimaru0000)
+- [:book: Blog](https://blog.uzimaru.com)
