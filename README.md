@@ -13,7 +13,7 @@
 - :space_invader: Game
   - Unity
   
-## OSS
+## :octocat: OSS
 
 <table>
   <tbody>
@@ -28,7 +28,7 @@
   </tbody>
 </table>
 
-## Links
+## :link: Links
 
 - [:bird: Twitter](https://twitter.com/uzimaru0000)
 - [:book: Blog](https://blog.uzimaru.com)
