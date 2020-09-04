@@ -1,8 +1,10 @@
 # :hatching_chick: uzimaru0000
 
-:soon: :rooster: 
+[![uzimaru0000's github stats](https://github-readme-stats.vercel.app/api?username=uzimaru0000&show_icons=true&icon_color=199861&count_private=true)](https://github.com/uzimaru0000)
 
 ## :sparkles: Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzimaru0000&layout=compact&hide=GLSL)](https://github.com/uzimaru0000)
 
 - :art: Web Frontend
   - JavaScript
@@ -15,18 +17,11 @@
   
 ## :octocat: OSS
 
-<table>
-  <tbody>
-    <tr>
-        <td>
-          <a href="https://github.com/uzimaru0000/UniTEA"><img src="https://gh-card.dev/repos/uzimaru0000/UniTEA.svg"></a>
-        </td>
-        <td>
-          <a href="https://github.com/uzimaru0000/Veauty"><img src="https://gh-card.dev/repos/uzimaru0000/Veauty.svg"></a>
-        </td>
-    </tr>
-  </tbody>
-</table>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uzimaru0000&repo=UniTEA)](https://github.com/uzimaru0000/UniTEA)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uzimaru0000&repo=Veauty)](https://github.com/uzimaru0000/Veauty)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uzimaru0000&repo=uzimaru.com)](https://github.com/uzimaru0000/uzimaru.com)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uzimaru0000&repo=uzimaru0000.github.io)](https://github.com/uzimaru0000/uzimaru0000.github.io)
 
 ## :link: Links
 
