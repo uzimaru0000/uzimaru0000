@@ -23,6 +23,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uzimaru0000&repo=uzimaru.com)](https://github.com/uzimaru0000/uzimaru.com)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uzimaru0000&repo=uzimaru0000.github.io)](https://github.com/uzimaru0000/uzimaru0000.github.io)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uzimaru0000&repo=clumsy)](https://github.com/uzimaru0000/clumsy)
+
 ## :link: Links
 
 - [:bird: Twitter](https://twitter.com/uzimaru0000)
